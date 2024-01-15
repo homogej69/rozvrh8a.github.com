@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Zpěvník</title>
+    <title>Seznam Písní od Autora</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -26,13 +26,13 @@
             border-radius: 8px;
             box-shadow: 0 2px 4px rgba(0,0,0,0.1);
         }
-        .code {
-            background-color: #272c34;
-            color: #f1f1f1;
-            padding: 15px;
-            border-radius: 5px;
-            font-family: monospace;
+        ul {
+            list-style-type: none;
             text-align: left;
+            padding: 0;
+        }
+        li {
+            margin: 5px 0;
         }
     </style>
 </head>
@@ -44,15 +44,20 @@
 </div>
 
 <div class="content">
-    <h1>Vítejte v našem Zpěvníku</h1>
-    <p>Tady je příklad jak by mohl vypadat kód písně:</p>
-    <div class="code">
-        // Příklad písně
-        Song: Vltava<br>
-        Artist: Bedřich Smetana<br>
-        // Další informace o písni
-    </div>
+    <h1>Seznam Písní od Autora</h1>
+    <ul>
+        <li>Píseň 1</li>
+        <li>Píseň 2</li>
+        <li>Píseň 3</li>
+        <li>Píseň 4</li>
+        <li>Píseň 5</li>
+        <li>Píseň 6</li>
+        <li>Píseň 7</li>
+        <li>Píseň 8</li>
+        <li>Píseň 9</li
+        <li>Píseň 10</li>
+    </ul>
 </div>
-
 </body>
 </html>
+

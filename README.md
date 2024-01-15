@@ -45,7 +45,7 @@
 
 <div class="content">
     <h1>Vítejte v našem Zpěvníku</h1>
-    <p>Tady je příklad jak by mohl vypadat kód písně:</p>
+    <p>Píseň</p>
     <div class="code">
         Song: Vltava<br>
         Artist: Bedřich Smetana<br>

@@ -47,10 +47,8 @@
     <h1>Vítejte v našem Zpěvníku</h1>
     <p>Tady je příklad jak by mohl vypadat kód písně:</p>
     <div class="code">
-        // Příklad písně
         Song: Vltava<br>
         Artist: Bedřich Smetana<br>
-        // Další informace o písni
     </div>
 </div>
 

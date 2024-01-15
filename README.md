@@ -40,7 +40,7 @@
 
 <div class="header">
     <a href="#home">Home</a>
-    <a href="#song-list">Seznam Písniček</a>
+    <a href="list">Seznam Písniček</a>
 </div>
 
 <div class="content">
